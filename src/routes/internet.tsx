@@ -52,6 +52,8 @@ function InternetPage() {
     title: "Home Internet Options Explained — Streamlinx Help",
     description:
       "Understand fiber, cable and fixed wireless internet: speed tiers, upload capacity, latency and equipment — explained by an independent assistance desk.",
+    keywords:
+      "internet options, fiber, cable internet, fixed wireless, DSL, broadband, speed tiers, upload, latency, home internet",
   });
 
   return (

@@ -31,6 +31,8 @@ function DisclaimerPage() {
     title: "Disclaimer — Streamlinx Help",
     description:
       "Streamlinx Help is an independent third-party desk, not affiliated with or endorsed by any internet, cable, TV or streaming provider. Guidance only — verify directly with providers.",
+    keywords:
+      "disclaimer, independent, third-party, no affiliation, not affiliated, verify, guidance",
   });
 
   return (

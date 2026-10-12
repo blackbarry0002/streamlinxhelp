@@ -47,6 +47,8 @@ function FaqPage() {
     title: "Frequently Asked Questions — Streamlinx Help",
     description:
       "Common questions about Streamlinx Help's independent connectivity assistance desk: cost, accuracy, privacy, coverage and how to get started.",
+    keywords:
+      "FAQ, questions, internet help, cable assistance, streaming support, connectivity, is it free, coverage",
   });
 
   return (

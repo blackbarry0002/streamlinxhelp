@@ -12,3 +12,8 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+# Disallow internal or non-content paths (if any exist)
+Disallow: /404.html
+
+Sitemap: https://streamlinxhelp.online/sitemap.xml

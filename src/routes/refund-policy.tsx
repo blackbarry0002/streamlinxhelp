@@ -12,6 +12,8 @@ function RefundPolicyPage() {
     title: "Refund Policy — Streamlinx Help",
     description:
       "Streamlinx Help's assistance service is free, so there is nothing to refund. Billing questions belong with your actual internet, cable or streaming provider.",
+    keywords:
+      "refund policy, refunds, billing, free service, charges, provider billing",
   });
 
   return (

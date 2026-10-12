@@ -46,6 +46,8 @@ function CablePage() {
     title: "Cable & TV Services Explained — Streamlinx Help",
     description:
       "Understand cable and TV service structures: channel tiers, set-top equipment, DVR storage, regional sports fees and IPTV alternatives.",
+    keywords:
+      "cable TV, TV service, channel tiers, set-top box, DVR, IPTV, regional sports, TV packages, cable packages",
   });
 
   return (

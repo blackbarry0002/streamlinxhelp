@@ -13,6 +13,8 @@ function ContactPage() {
     title: "Contact the Streamlinx Help Desk",
     description:
       "Reach an independent Streamlinx Help advisor by phone or message for plain-language help understanding internet, cable, TV and streaming options.",
+    keywords:
+      "contact us, internet help, cable assistance, streaming support, talk to advisor, connectivity desk",
   });
 
   const [submitted, setSubmitted] = useState(false);

@@ -35,6 +35,8 @@ function TermsPage() {
     title: "Terms & Conditions — Streamlinx Help",
     description:
       "Terms governing use of Streamlinx Help's independent connectivity assistance service, including our third-party, no-affiliation positioning.",
+    keywords:
+      "terms, conditions, terms of service, user agreement, legal, third-party",
   });
 
   return (

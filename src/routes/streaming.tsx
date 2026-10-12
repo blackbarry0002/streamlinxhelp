@@ -24,6 +24,8 @@ function StreamingPage() {
     title: "Streaming & Bandwidth Planning — Streamlinx Help",
     description:
       "Plan streaming for a multi-screen household: bandwidth per stream, 4K requirements, buffering causes and device placement, explained independently.",
+    keywords:
+      "streaming, bandwidth, 4K streaming, buffering, multi-screen, bandwidth planning, Netflix, streaming services",
   });
 
   return (

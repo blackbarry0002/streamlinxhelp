@@ -37,6 +37,8 @@ function WifiPage() {
     title: "Wi-Fi Coverage, Mesh & Interference — Streamlinx Help",
     description:
       "Independent guidance on Wi-Fi: router placement, mesh node spacing, 2.4 vs 5 vs 6 GHz bands, interference sources and smart-home device load.",
+    keywords:
+      "Wi-Fi, mesh, router placement, 2.4 GHz, 5 GHz, 6 GHz, interference, smart home, coverage, router",
   });
 
   return (

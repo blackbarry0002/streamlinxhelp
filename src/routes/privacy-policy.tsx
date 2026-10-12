@@ -35,6 +35,8 @@ function PrivacyPolicyPage() {
     title: "Privacy Policy — Streamlinx Help",
     description:
       "How Streamlinx Help, an independent connectivity assistance desk, collects and uses information shared through the contact form and phone line.",
+    keywords:
+      "privacy policy, data, information, cookies, analytics, GDPR, privacy",
   });
 
   return (

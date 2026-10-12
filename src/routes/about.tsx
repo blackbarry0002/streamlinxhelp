@@ -36,6 +36,8 @@ function AboutPage() {
     title: "About Streamlinx Help — Independent Connectivity Desk",
     description:
       "Streamlinx Help is an independent third-party desk helping households understand internet, cable, TV and streaming options without sales pressure or provider affiliation.",
+    keywords:
+      "about us, independent desk, internet assistance, third-party, no affiliation, connectivity help",
   });
 
   return (

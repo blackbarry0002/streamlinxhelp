@@ -108,6 +108,8 @@ function Home() {
     title: "Streamlinx Help — Explore Internet, Cable & Streaming Options",
     description:
       "Independent assistance desk for home connectivity. Explore, compare and understand internet, cable, TV and streaming options available at your address.",
+    keywords:
+      "internet, cable, TV, streaming, home connectivity, compare internet, broadband options, internet assistance, Wi-Fi, fiber",
   });
 
   return (
