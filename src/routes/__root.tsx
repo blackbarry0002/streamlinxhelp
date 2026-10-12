@@ -2,6 +2,7 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { Outlet, Link, createRootRouteWithContext, useRouter } from "@tanstack/react-router";
 
 import { SiteHeader, SiteFooter } from "../components/site-chrome";
+import { CallPopup } from "../components/call-popup";
 
 function NotFoundComponent() {
   return (
@@ -73,6 +74,7 @@ function RootComponent() {
         <Outlet />
       </main>
       <SiteFooter />
+      <CallPopup />
     </QueryClientProvider>
   );
 }
