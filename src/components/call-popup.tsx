@@ -56,7 +56,7 @@ export function CallPopup() {
         </p>
 
         <a href="tel:+18338900256" className="btn-accent mt-8 inline-flex">
-          +1 833 890 0256
+          833 890 0256
         </a>
 
         <p className="mt-4 text-xs text-muted-foreground">

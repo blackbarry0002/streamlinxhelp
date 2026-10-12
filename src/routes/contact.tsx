@@ -33,7 +33,7 @@ function ContactPage() {
             <h2 id="contact-details" className="display-lg mt-6">
               Phone & hours
             </h2>
-            <p className="btn-accent mt-8 inline-flex">+1 833 890 0256</p>
+            <p className="btn-accent mt-8 inline-flex">833 890 0256</p>
             <dl className="mt-12 space-y-6 border-t border-line pt-8">
               <div>
                 <dt className="label-mono">Hours</dt>

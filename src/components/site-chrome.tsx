@@ -96,7 +96,7 @@ export function SiteFooter() {
             do not sell services on behalf of any provider.
           </p>
           <a href="/contact" className="btn-accent mt-8">
-            +1 833 890 0256
+            833 890 0256
           </a>
         </div>
 
