@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting…</title>
+    <script>
+      // GitHub Pages SPA fallback: static hosts serve this file for any
+      // unmatched route instead of running the client-side router. Stash the
+      // full path the visitor requested, then send them to the site root so
+      // the SPA can boot; index.html reads sessionStorage.redirect and uses
+      // history.replaceState to restore this path before the router mounts.
+      sessionStorage.redirect = location.href;
+      location.replace(location.origin + "/");
+    </script>
+  </head>
+  <body>
+    Redirecting…
+  </body>
+</html>
